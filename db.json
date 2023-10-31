@@ -7,7 +7,7 @@
           "cpf": "107.280.019-50",
           "rg": "13.772.936-9",
           "href": "./assets/eduarda.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.e8b44bff53dd",
+          "path": "./assets/diplomas/eduarda.jpeg",
           "filename": "diploma-eduarda"
         },
         {
@@ -17,6 +17,7 @@
           "cpf": "119.351.739-79",
           "rg": "14.410.066-2",
           "href": "./assets/geovanna.pdf",
+          "path": "./assets/diplomas/eduarda.jpeg",
           "filename": "geovanna-diploma"
         },
         
@@ -27,7 +28,7 @@
           "cpf": "099.233.439-01",
           "rg": "1.242.953-35",
           "href": "./assets/guilhermematheus.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.778f1514939c",
+          "path": "./assets/diplomas/guilhermematheus.jpeg",
           "filename": "cassiano-diploma"
         },
         {
@@ -37,9 +38,8 @@
           "cpf": "414.202.878-26",
           "rg": "40.809.256-7",
           "href": "./assets/guilhermemoggione.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.7dfffd7f1b0a",
-          "filename": "moggione-diploma",
-            "19853.665.7dfffd7f1b0a": "./assets/guilhermemogg.jpeg"
+          "path": "./assets/diplomas/guilhermemog.jpeg",
+          "filename": "moggione-diploma"
         },
         {
           "id": "19853.665.ebc848be5e34",
@@ -48,7 +48,7 @@
           "cpf": "110.705.299-82",
           "rg": "13.419.945-9",
           "href": "./assets/jhonathan.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.ebc848be5e34",
+          "path": "./assets/diplomas/jhonathan.jpeg",
           "filename": "jhonathan-diploma"
         },
         {
@@ -58,7 +58,7 @@
           "cpf": "128.837.707-71",
           "rg": "14.172.157-7",
           "href": "./assets/lucas.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.70bd2c68431f",
+          "path": "./assets/diplomas/lucas.jpeg",
           "filename": "lucas-diploma"
         },
         {
@@ -68,7 +68,7 @@
           "cpf": "082.688.539-05",
           "rg": "10.841.737-4",
           "href": "./assets/patricia.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.dec566429fd1",
+          "path": "./assets/diplomas/patricia.jpeg",
           "filename": "patricia-diploma"
         },
         {
@@ -78,7 +78,7 @@
           "cpf": "112.426.029-33",
           "rg": "13.419.955-5",
           "href": "./assets/maycon.pdf",
-          "hreflink": "http://localhost:3000/access/19853.665.6130b48070e2",
+          "path": "./assets/diplomas/maycon.jpeg",
           "filename": "maycon-diploma"
         },
         {
@@ -88,6 +88,7 @@
           "cpf": "113.167.369-70",
           "rg": "9.776.191-4",
           "href": "./assets/renata.jpg",
+          "path": "./assets/diplomas/renata.jpeg",
           "filename": "renata-diploma"
         }
       ]
