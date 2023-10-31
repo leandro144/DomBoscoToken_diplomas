@@ -38,7 +38,8 @@
           "rg": "40.809.256-7",
           "href": "./assets/guilhermemoggione.pdf",
           "hreflink": "http://localhost:3000/access/19853.665.7dfffd7f1b0a",
-          "filename": "moggione-diploma"
+          "filename": "moggione-diploma",
+            "19853.665.7dfffd7f1b0a": "./assets/guilhermemogg.jpeg"
         },
         {
           "id": "19853.665.ebc848be5e34",
