@@ -74,13 +74,27 @@
         
         {
           "id": "94313739",
-          "foto": "./assets/foto-7.jpg",
-          "name": "Renata Gomes Camargo",
-          "cpf": "113.167.369-70",
+          "nome": "Renata Gomes Camargo",
           "rg": "9.776.191-4",
-          "href": "./assets/renata.jpg",
-          "path": "./assets/diplomas/renata.jpeg",
-          "filename": "renata-diploma"
+          "xml_data": "../../../assets/xmls/renata.xml",
+          "pdf": "../../../assets/diplomas/renata.pdf",
+          "filename": "renata.pdf"
+        },
+          {
+          "id": "94313739",
+          "nome": "Renata Gomes Camargo",
+          "rg": "9.776.191-4",
+          "xml_data": "../../../assets/xmls/renata.xml",
+          "pdf": "../../../assets/diplomas/renata.pdf",
+          "filename": "renata.pdf"
+        },
+          {
+          "id": "94313739",
+          "nome": "Renata Gomes Camargo",
+          "rg": "9.776.191-4",
+          "xml_data": "../../../assets/xmls/renata.xml",
+          "pdf": "../../../assets/diplomas/renata.pdf",
+          "filename": "renata.pdf"
         }
       ]
 }
