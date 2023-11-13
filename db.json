@@ -2,17 +2,14 @@
     "diploma":  [
         {
           "id": "19853.665.e8b44bff53dd",
-          "foto": "./assets/foto.jpg",
-          "name": "Eduarda Caroline Gomes De Carvalho",
-          "cpf": "107.280.019-50",
+          "nome": "Eduarda Caroline Gomes De Carvalho",
           "rg": "13.772.936-9",
-          "href": "./assets/eduarda.pdf",
-          "path": "./assets/diplomas/eduarda.jpeg",
-          "filename": "diploma-eduarda"
+          "xml_data": "../../../assets/xmls/eduarda.xml",
+          "pdf": "../../../assets/diplomas/eduarda.pdf",
+          "filename": "eduarda.pdf"
         },
         {
           "id": "94313732",
-          "foto": "./assets/foto-1.jpg",
           "name": "Geovanna Taynara Pereira De Brito",
           "cpf": "119.351.739-79",
           "rg": "14.410.066-2",
@@ -22,65 +19,59 @@
         },
         
         {
-          "id": "19853.665.778f1514939c",
-          "foto": "./assets/foto-2.jpg",
-          "name": "Guilherme Matheus Carmo Cassiano",
-          "cpf": "099.233.439-01",
-          "rg": "1.242.953-35",
-          "href": "./assets/guilhermematheus.pdf",
-          "path": "./assets/diplomas/guilhermematheus.jpeg",
-          "filename": "cassiano-diploma"
+          "id": "19853.665.6130b48070e2",
+          "nome": "Maycon Amancio De Souza",
+          "rg": "13.419.955-5",
+          "xml_data": "../../../assets/xmls/maycon.xml",
+          "pdf": "../../../assets/diplomas/maycon.pdf",
+          "filename": "maycon.pdf"
         },
+        
+       {
+          "id": "19853.665.70bd2c68431f",
+          "nome": "Lucas Da Silva Arvelino",
+          "rg": "14.172.157-7",
+          "xml_data": "../../../assets/xmls/lucas.xml",
+          "pdf": "../../../assets/diplomas/lucas.pdf",
+          "filename": "lucas.pdf"
+        },
+        
+         {
+          "id": "19853.665.778f1514939c",
+          "nome": "Guilherme Matheus Carmo Cassiano",
+          "rg": "1.242.953-35",
+          "xml_data": "../../../assets/xmls/guilherme-matheus.xml",
+          "pdf": "../../../assets/diplomas/guilhermematheus.pdf",
+          "filename": "guilhermematheus.pdf"
+        },
+        
         {
           "id": "19853.665.7dfffd7f1b0a",
-          "foto": "./assets/foto-8.jpeg",
-          "name": "Guilherme Moggione De Assis",
-          "cpf": "414.202.878-26",
+          "nome": "Guilherme Moggione De Assis",
           "rg": "40.809.256-7",
-          "href": "./assets/guilhermemoggione.pdf",
-          "path": "./assets/diplomas/guilhermemog.jpeg",
-          "filename": "moggione-diploma"
+          "xml_data": "../../../assets/xmls/guilherme.xml",
+          "pdf": "../../assets/diplomas/guilhermemoggione.pdf",
+          "filename": "guilhermemoggione.pdf"
         },
-        {
-          "id": "19853.665.ebc848be5e34",
-          "foto": "./assets/foto-3.jpg",
-          "name": "Jhonathan Amancio De Souza",
-          "cpf": "110.705.299-82",
-          "rg": "13.419.945-9",
-          "href": "./assets/jhonathan.pdf",
-          "path": "./assets/diplomas/jhonathan.jpeg",
-          "filename": "jhonathan-diploma"
-        },
-        {
-          "id": "19853.665.70bd2c68431f",
-          "foto": "./assets/foto-4.jpg",
-          "name": "Lucas Da Silva Arvelino",
-          "cpf": "128.837.707-71",
-          "rg": "14.172.157-7",
-          "href": "./assets/lucas.pdf",
-          "path": "./assets/diplomas/lucas.jpeg",
-          "filename": "lucas-diploma"
-        },
+        
         {
           "id": "19853.665.dec566429fd1",
-          "foto": "./assets/foto-6.jpg",
-          "name": "Patricia Cardoso Dos Santos Andrade",
-          "cpf": "082.688.539-05",
+          "nome": "Patricia Cardoso Dos Santos Andrade",
           "rg": "10.841.737-4",
-          "href": "./assets/patricia.pdf",
-          "path": "./assets/diplomas/patricia.jpeg",
-          "filename": "patricia-diploma"
+          "xml_data": "../../../assets/xmls/patricia.xml",
+          "pdf": "../../../assets/diplomas/patricia.pdf",
+          "filename": "patricia.pdf"
         },
-        {
-          "id": "19853.665.6130b48070e2",
-          "foto": "./assets/foto-5.jpg",
-          "name": "Maycon Amancio De Souza",
-          "cpf": "112.426.029-33",
-          "rg": "13.419.955-5",
-          "href": "./assets/maycon.pdf",
-          "path": "./assets/diplomas/maycon.jpeg",
-          "filename": "maycon-diploma"
+        
+       {
+          "id": "19853.665.ebc848be5e34",
+          "nome": "Jhonathan Amancio De Souza",
+          "rg": "13.419.945-9",
+          "xml_data": "../../../assets/xmls/jhonathan.xml",
+          "pdf": "../../../assets/diplomas/jhonathan.pdf",
+          "filename": "jhonathan.pdf"
         },
+        
         {
           "id": "94313739",
           "foto": "./assets/foto-7.jpg",
