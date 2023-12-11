@@ -9,13 +9,12 @@
           "filename": "eduarda.pdf"
         },
         {
-          "id": "94313732",
+          "id": "19853.665.bca99cb15279",
           "name": "Geovanna Taynara Pereira De Brito",
-          "cpf": "119.351.739-79",
           "rg": "14.410.066-2",
-          "href": "./assets/geovanna.pdf",
-          "path": "./assets/diplomas/eduarda.jpeg",
-          "filename": "geovanna-diploma"
+          "xml_data": "../../../assets/xmls/geovanna.xml",
+          "pdf": "../../../assets/diplomas/geovanna.pdf",
+          "filename": "geovanna.pdf"
         },
         
         {
